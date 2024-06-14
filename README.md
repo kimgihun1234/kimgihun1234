@@ -23,8 +23,7 @@
     <div style="text-align: left;"> <a href=mailto:khy2k16241@gmai.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khy2k16241@gmai.com"> </a>
           </div>  <br> 
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=kimgihun1234&bg_color=180,000000,&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=y2k16241)](https://solved.ac/y2k16241/)
