@@ -29,6 +29,5 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgihun1234&layout=compact&bg_color=180,00000000,ffffff&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimgihun1234&count_private=true)]
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=y2k16241)](https://solved.ac/y2k16241)
 
