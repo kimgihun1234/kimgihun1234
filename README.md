@@ -27,7 +27,6 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
         🏅 Stats </h2> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgihun1234&layout=compact&bg_color=180,00000000,ffffff&title_color=000000&text_color=000000"
-           /> </div> 
+           />
     </div>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=y2k16241)](https://solved.ac/y2k16241/)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
