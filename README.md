@@ -12,6 +12,7 @@
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+        <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Kotlin</title><path d="M24 24H0V0h24L12 12Z"/></svg>
           <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 프레임워크 및 개발 환경: </div> 
           <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
           <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
