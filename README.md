@@ -30,5 +30,5 @@
            /> </div> 
     </div>
 
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={y2k16241})](https://solved.ac/{y2k16241})
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=y2k16241)](https://solved.ac/y2k16241)
 
