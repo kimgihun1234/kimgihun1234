@@ -4,6 +4,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 소개 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 학력: 경북대학교 컴퓨터학부 졸업 </div> 
+        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 교육: SSAFY12기 모바일트랙(2024.07.02~2024.11.30) </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
